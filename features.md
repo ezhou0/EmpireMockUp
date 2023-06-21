@@ -1,4 +1,4 @@
-Inlude oauth
+Oauth
     Guest users can 
         -see featured videos(given playlist of last week rotation)
         -see calendar page
@@ -13,3 +13,24 @@ Inlude oauth
         - explore merch store and make purchases
             -add to cart
             -buy
+
+        to sign up you need
+        - DOB
+        - email
+        - pw
+        - pw verification
+
+Page Organization
+
+    landing splash
+        - navbar
+            -calendar
+            -social media links (contact)
+            -download videos
+            -sign in
+
+        - auto-scrolling window for merch pictures
+        -videos tab will scroll to area with a feature reel of classes and have a button to download class footage
+            -download class footage if signed in will link to google drive, otherwise will take you to sign in/signup page
+        
+        -footer with contact info
